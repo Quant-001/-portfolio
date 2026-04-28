@@ -46,7 +46,7 @@ export const projects = [
       'User-facing memory audit UI to view, edit, and delete stored memories',
       'Multi-user memory isolation with strict tenant separation',
     ],
-    github: 'https://github.com/indreshmishra566-stack/AIU.git',
+    github: 'https://github.com/Quant-001/AIU',
     live: 'https://aiu-pi.vercel.app/',
   },
 
@@ -118,7 +118,7 @@ export const projects = [
     'Export options (PDF, Notion, Markdown)',
   ],
   
-  github: 'https://github.com/indreshmishra566-stack/VIDA.git',
+  github: 'https://github.com/Quant-001/VIDA',
   live: 'https://vida-ttp8.vercel.app/',
 },
 ];
