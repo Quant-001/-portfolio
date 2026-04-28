@@ -37,14 +37,14 @@ export default function Contact() {
       bg: 'rgba(255,255,255,0.06)',
       label: 'GitHub',
       handle: '',
-      href: 'https://github.com/indreshmishra566-stack',
+      href: 'https://github.com/Quant-001',
     },
     {
       icon: 'in',
       bg: 'rgba(59,130,246,0.1)',
       label: 'LinkedIn',
       handle: '',
-      href: 'https://linkedin.com/in/imim05',
+      href: 'https://www.linkedin.com/feed/',
     },
     // {
     //   icon: '@',
